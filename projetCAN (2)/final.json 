@@ -1,0 +1,32 @@
+[{
+       "reservation":
+          	{
+			"nom":"idjai",
+			"idLiaison":1,
+			"date":"2025-11-30",
+			"heure":"08:00",
+			"horodatage":"1/13/2026 10:05:52 PM"
+		},
+       "passagers": [
+		{
+			"nom":"jad",
+			"prenom":"idzja",
+			"codeCategorie":"adu26p"
+		}
+		{
+			"nom":"iazj",
+			"prenom":"akzf",
+			"codeCategorie":"bebe"
+		},
+	],
+	"vehicules": [
+		{
+			"codeCategorie":"trot",
+			"quantite":"2"
+		}
+		{
+			"codeCategorie":"cartand",
+			"quantite":"3"
+		},
+	]
+}]
